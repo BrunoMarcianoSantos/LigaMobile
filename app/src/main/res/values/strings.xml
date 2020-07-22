@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Ligajustica</string>
+    <string name="Batman">Ver dados do Batman</string>
+    <string name="Superman">Ver dados do Superman</string>
+    <string name="Lanterna">Mandar os dados do Lanterna Verde por email</string>
+    <string name="Flash">Ver dados do Flash</string>
+    <string name="nomebatman">Nome: Bruce Wayne</string>
+    <string name="codinomebatman">Codinome: Batman</string>
+    <string name="especiebatman">Espécie: Humano</string>
+    <string name="nivelacessobatman">Nível de Acesso: 10</string>
+    <string name="equipamentobatman">Equipamentos: Batarangue, cinto de utilidades</string>
+    <string name="habilidadebatman">Habilidades: Perito em artes marciais</string>
+    <string name="vulnerabilidadebatman">Vulnerabilidades: Ainda é frágil para ataques poderosos</string>
+    <string name="nomesuperman">Nome: Clark Kent</string>
+    <string name="codinomesuperman">Codinome: Superman</string>
+    <string name="especiesuperman">Espécie: Kryptoniano</string>
+    <string name="nivelacessosuperman">Nível de Acesso: 5</string>
+    <string name="equipamentosuperman">Equipamento: Não usa</string>
+    <string name="habilidadesuperman">Habilidades: Visão de calor, super força, voa</string>
+    <string name="vulnerabilidadesuperman">Vulnerabilidades: Exposição a Kryptonita</string>
+    <string name="nomeflash">Nome: Barry Allen</string>
+    <string name="codinomeflash">Codinome: Flash</string>
+    <string name="especieflash">Espécie: Humano</string>
+    <string name="nivelacessoflash">Nível de Acesso: 1</string>
+    <string name="equipamentoflash">Equipamento: Não usa</string>
+    <string name="habilidadeflash">Habilidades: Velocidade muito alta, Reflexos aprimorados</string>
+    <string name="vulnerabilidadeflash">Vulnerabilidades: Se ele não puder correr ele fica igual um humano normal</string>
+</resources>
